@@ -1,0 +1,4006 @@
+[
+  {
+    "timestamp": "2025-09-23T20:44:57.663598018Z",
+    "battery": 3.085,
+    "humidity": 65.6,
+    "motion": 16590,
+    "temperature": 26.61,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-23T20:51:17.036753932Z",
+    "battery": 3.085,
+    "humidity": 65.6,
+    "motion": 16590,
+    "temperature": 26.6,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-23T21:09:19.761449203Z",
+    "battery": 3.086,
+    "humidity": 65.6,
+    "motion": 16591,
+    "temperature": 26.57,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-23T21:21:16.421076760Z",
+    "battery": 3.085,
+    "humidity": 66,
+    "motion": 16594,
+    "temperature": 26.58,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-23T21:51:15.880613618Z",
+    "battery": 3.085,
+    "humidity": 66,
+    "motion": 16594,
+    "temperature": 26.51,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-23T22:06:34.639826629Z",
+    "battery": 3.086,
+    "humidity": 66,
+    "motion": 16595,
+    "temperature": 26.46,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-23T22:21:15.395229652Z",
+    "battery": 3.084,
+    "humidity": 66,
+    "motion": 16595,
+    "temperature": 26.41,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-23T22:51:14.864569132Z",
+    "battery": 3.086,
+    "humidity": 65.8,
+    "motion": 16595,
+    "temperature": 26.24,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-23T22:53:42.661223077Z",
+    "battery": 3.087,
+    "humidity": 65.6,
+    "motion": 16596,
+    "temperature": 26.26,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-23T23:21:14.342452365Z",
+    "battery": 3.085,
+    "humidity": 65,
+    "motion": 16596,
+    "temperature": 26.22,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-23T23:29:52.263687389Z",
+    "battery": 3.086,
+    "humidity": 64.8,
+    "motion": 16597,
+    "temperature": 26.2,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-23T23:51:13.822167275Z",
+    "battery": 3.086,
+    "humidity": 65.1,
+    "motion": 16598,
+    "temperature": 26.22,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T00:21:13.294630421Z",
+    "battery": 3.084,
+    "humidity": 65.9,
+    "motion": 16598,
+    "temperature": 26.26,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T00:26:55.350994334Z",
+    "battery": 3.085,
+    "humidity": 65.7,
+    "motion": 16599,
+    "temperature": 26.22,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T00:51:12.771014391Z",
+    "battery": 3.086,
+    "humidity": 66.1,
+    "motion": 16599,
+    "temperature": 26.2,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T01:15:51.170390829Z",
+    "battery": 3.085,
+    "humidity": 65.8,
+    "motion": 16600,
+    "temperature": 26.03,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T01:21:12.251422271Z",
+    "battery": 3.086,
+    "humidity": 66.1,
+    "motion": 16600,
+    "temperature": 26.03,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T01:26:07.878326427Z",
+    "battery": 3.085,
+    "humidity": 66.4,
+    "motion": 16601,
+    "temperature": 25.93,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T01:30:51.801641777Z",
+    "battery": 3.085,
+    "humidity": 66.8,
+    "motion": 16602,
+    "temperature": 25.91,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T01:51:11.731485315Z",
+    "battery": 3.086,
+    "humidity": 67.2,
+    "motion": 16602,
+    "temperature": 25.79,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T02:04:30.463911298Z",
+    "battery": 3.086,
+    "humidity": 67.2,
+    "motion": 16603,
+    "temperature": 25.79,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T02:14:51.972213600Z",
+    "battery": 3.085,
+    "humidity": 66.9,
+    "motion": 16605,
+    "temperature": 25.78,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T02:21:11.204076637Z",
+    "battery": 3.085,
+    "humidity": 67,
+    "motion": 16605,
+    "temperature": 25.76,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T02:51:10.752914142Z",
+    "battery": 3.086,
+    "humidity": 66.3,
+    "motion": 16605,
+    "temperature": 25.74,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T03:19:21.347337112Z",
+    "battery": 3.085,
+    "humidity": 65.7,
+    "motion": 16606,
+    "temperature": 25.67,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T03:21:10.150178738Z",
+    "battery": 3.085,
+    "humidity": 65.8,
+    "motion": 16617,
+    "temperature": 25.69,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T03:21:44.700663009Z",
+    "battery": 3.085,
+    "humidity": 65.8,
+    "motion": 16618,
+    "temperature": 25.68,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T03:23:46.330949448Z",
+    "battery": 3.086,
+    "humidity": 65.8,
+    "motion": 16633,
+    "temperature": 25.68,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T03:26:13.828639092Z",
+    "battery": 3.086,
+    "humidity": 65.9,
+    "motion": 16639,
+    "temperature": 25.69,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T03:42:16.453266915Z",
+    "battery": 3.087,
+    "humidity": 67,
+    "motion": 16640,
+    "temperature": 25.61,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T03:48:05.555693507Z",
+    "battery": 3.087,
+    "humidity": 67.7,
+    "motion": 16643,
+    "temperature": 25.56,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T03:51:09.601804618Z",
+    "battery": 3.086,
+    "humidity": 67.7,
+    "motion": 16645,
+    "temperature": 25.58,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T04:02:49.959298187Z",
+    "battery": 3.085,
+    "humidity": 67.4,
+    "motion": 16646,
+    "temperature": 25.51,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T04:04:59.244940360Z",
+    "battery": 3.087,
+    "humidity": 67.4,
+    "motion": 16649,
+    "temperature": 25.51,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T04:07:29.459773829Z",
+    "battery": 3.087,
+    "humidity": 67.5,
+    "motion": 16651,
+    "temperature": 25.52,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T04:21:09.097009768Z",
+    "battery": 3.085,
+    "humidity": 67.2,
+    "motion": 16655,
+    "temperature": 25.56,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T04:22:38.533925Z",
+    "battery": 3.085,
+    "humidity": 67.2,
+    "motion": 16656,
+    "temperature": 25.52,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T04:25:06.485894581Z",
+    "battery": 3.087,
+    "humidity": 67.3,
+    "motion": 16657,
+    "temperature": 25.56,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T04:35:10.338990419Z",
+    "battery": 3.085,
+    "humidity": 67.4,
+    "motion": 16659,
+    "temperature": 25.56,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T04:43:59.547284208Z",
+    "battery": 3.085,
+    "humidity": 67.4,
+    "motion": 16664,
+    "temperature": 25.6,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T04:49:49.876572856Z",
+    "battery": 3.086,
+    "humidity": 66.9,
+    "motion": 16669,
+    "temperature": 25.65,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T04:51:08.598005437Z",
+    "battery": 3.085,
+    "humidity": 67.2,
+    "motion": 16674,
+    "temperature": 25.67,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T04:55:45.619093615Z",
+    "battery": 3.086,
+    "humidity": 67.2,
+    "motion": 16675,
+    "temperature": 25.71,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T05:21:08.049355363Z",
+    "battery": 3.084,
+    "humidity": 64.7,
+    "motion": 16687,
+    "temperature": 26.82,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T05:23:56.797000919Z",
+    "battery": 3.085,
+    "humidity": 64.6,
+    "motion": 16688,
+    "temperature": 26.94,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T05:42:35.702091367Z",
+    "battery": 3.084,
+    "humidity": 63.4,
+    "motion": 16689,
+    "temperature": 27.43,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T05:51:07.588177925Z",
+    "battery": 3.085,
+    "humidity": 63.4,
+    "motion": 16689,
+    "temperature": 27.5,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T06:21:06.994616157Z",
+    "battery": 3.085,
+    "humidity": 64.4,
+    "motion": 16689,
+    "temperature": 27.22,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T06:51:06.452784720Z",
+    "battery": 3.085,
+    "humidity": 64.9,
+    "motion": 16689,
+    "temperature": 27.15,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T07:02:24.183013875Z",
+    "battery": 3.084,
+    "humidity": 65.2,
+    "motion": 16690,
+    "temperature": 27.13,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T07:05:03.061197259Z",
+    "battery": 3.085,
+    "humidity": 65.1,
+    "motion": 16695,
+    "temperature": 27.15,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T07:09:47.674179852Z",
+    "battery": 3.086,
+    "humidity": 65,
+    "motion": 16697,
+    "temperature": 27.17,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T07:11:54.360168597Z",
+    "battery": 3.085,
+    "humidity": 65.2,
+    "motion": 16715,
+    "temperature": 27.17,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T07:16:43.580267937Z",
+    "battery": 3.086,
+    "humidity": 65.1,
+    "motion": 16731,
+    "temperature": 27.17,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T07:21:05.917210588Z",
+    "battery": 3.085,
+    "humidity": 65.2,
+    "motion": 16736,
+    "temperature": 27.15,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T08:21:04.866180398Z",
+    "battery": 3.086,
+    "humidity": 63.3,
+    "motion": 16736,
+    "temperature": 27.29,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T05:21:08.049355363Z",
+    "battery": 3.084,
+    "humidity": 64.7,
+    "motion": 16687,
+    "temperature": 26.82,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T05:23:56.797000919Z",
+    "battery": 3.085,
+    "humidity": 64.6,
+    "motion": 16688,
+    "temperature": 26.94,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T05:42:35.702091367Z",
+    "battery": 3.084,
+    "humidity": 63.4,
+    "motion": 16689,
+    "temperature": 27.43,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T05:51:07.588177925Z",
+    "battery": 3.085,
+    "humidity": 63.4,
+    "motion": 16689,
+    "temperature": 27.5,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T06:21:06.994616157Z",
+    "battery": 3.085,
+    "humidity": 64.4,
+    "motion": 16689,
+    "temperature": 27.22,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T06:51:06.452784720Z",
+    "battery": 3.085,
+    "humidity": 64.9,
+    "motion": 16689,
+    "temperature": 27.15,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T07:02:24.183013875Z",
+    "battery": 3.084,
+    "humidity": 65.2,
+    "motion": 16690,
+    "temperature": 27.13,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T07:05:03.061197259Z",
+    "battery": 3.085,
+    "humidity": 65.1,
+    "motion": 16695,
+    "temperature": 27.15,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T07:09:47.674179852Z",
+    "battery": 3.086,
+    "humidity": 65,
+    "motion": 16697,
+    "temperature": 27.17,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T07:11:54.360168597Z",
+    "battery": 3.085,
+    "humidity": 65.2,
+    "motion": 16715,
+    "temperature": 27.17,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T07:16:43.580267937Z",
+    "battery": 3.086,
+    "humidity": 65.1,
+    "motion": 16731,
+    "temperature": 27.17,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T07:21:05.917210588Z",
+    "battery": 3.085,
+    "humidity": 65.2,
+    "motion": 16736,
+    "temperature": 27.15,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T08:21:04.866180398Z",
+    "battery": 3.086,
+    "humidity": 63.3,
+    "motion": 16736,
+    "temperature": 27.29,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T09:18:37.287420643Z",
+    "battery": 3.085,
+    "humidity": 62.1,
+    "motion": 16737,
+    "temperature": 27.44,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T09:20:38.021199428Z",
+    "battery": 3.086,
+    "humidity": 61.8,
+    "motion": 16744,
+    "temperature": 27.4,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T09:21:03.837474705Z",
+    "battery": 3.086,
+    "humidity": 61.8,
+    "motion": 16747,
+    "temperature": 27.42,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T09:27:59.529342093Z",
+    "battery": 3.085,
+    "humidity": 60.5,
+    "motion": 16749,
+    "temperature": 27.4,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T09:30:17.899501424Z",
+    "battery": 3.086,
+    "humidity": 61.2,
+    "motion": 16757,
+    "temperature": 27.4,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T09:32:22.440448943Z",
+    "battery": 3.086,
+    "humidity": 61.9,
+    "motion": 16770,
+    "temperature": 27.43,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T09:34:27.067032024Z",
+    "battery": 3.087,
+    "humidity": 62.6,
+    "motion": 16785,
+    "temperature": 27.43,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T09:51:03.327243831Z",
+    "battery": 3.085,
+    "humidity": 64,
+    "motion": 16789,
+    "temperature": 27.47,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T10:21:02.780464015Z",
+    "battery": 3.085,
+    "humidity": 61.8,
+    "motion": 16789,
+    "temperature": 27.54,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T10:51:02.288972713Z",
+    "battery": 3.086,
+    "humidity": 62.4,
+    "motion": 16789,
+    "temperature": 27.6,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T11:21:01.764212575Z",
+    "battery": 3.087,
+    "humidity": 62,
+    "motion": 16789,
+    "temperature": 27.64,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T11:51:01.249222636Z",
+    "battery": 3.084,
+    "humidity": 62.4,
+    "motion": 16789,
+    "temperature": 27.67,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T12:21:00.689962483Z",
+    "battery": 3.086,
+    "humidity": 61.8,
+    "motion": 16789,
+    "temperature": 27.7,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:26:15.440272716Z",
+    "battery": 3.085,
+    "humidity": 67.9,
+    "motion": 16972,
+    "temperature": 26.24,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:28:21.450717362Z",
+    "battery": 3.085,
+    "humidity": 68.3,
+    "motion": 16991,
+    "temperature": 26.26,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:30:28.218938819Z",
+    "battery": 3.086,
+    "humidity": 69.1,
+    "motion": 17002,
+    "temperature": 26.24,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:32:34.892909098Z",
+    "battery": 3.085,
+    "humidity": 68.7,
+    "motion": 17011,
+    "temperature": 26.23,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:34:38.066298071Z",
+    "battery": 3.086,
+    "humidity": 68.6,
+    "motion": 17025,
+    "temperature": 26.23,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:36:39.561240399Z",
+    "battery": 3.085,
+    "humidity": 68.7,
+    "motion": 17045,
+    "temperature": 26.24,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:38:43.833962941Z",
+    "battery": 3.086,
+    "humidity": 68.8,
+    "motion": 17063,
+    "temperature": 26.2,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:41:35.383974428Z",
+    "battery": 3.086,
+    "humidity": 68.9,
+    "motion": 17075,
+    "temperature": 26.23,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:43:43.522733047Z",
+    "battery": 3.085,
+    "humidity": 68.9,
+    "motion": 17095,
+    "temperature": 26.24,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:45:47.044367077Z",
+    "battery": 3.085,
+    "humidity": 69,
+    "motion": 17114,
+    "temperature": 26.24,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:47:48.208029868Z",
+    "battery": 3.085,
+    "humidity": 69.2,
+    "motion": 17132,
+    "temperature": 26.23,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:49:53.611132814Z",
+    "battery": 3.085,
+    "humidity": 69.1,
+    "motion": 17153,
+    "temperature": 26.23,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:50:58.064677761Z",
+    "battery": 3.085,
+    "humidity": 69.1,
+    "motion": 17165,
+    "temperature": 26.22,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:51:56.627302848Z",
+    "battery": 3.087,
+    "humidity": 69.5,
+    "motion": 17169,
+    "temperature": 26.24,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:54:03.853344752Z",
+    "battery": 3.086,
+    "humidity": 69.6,
+    "motion": 17188,
+    "temperature": 26.23,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:56:10.388175922Z",
+    "battery": 3.086,
+    "humidity": 69.7,
+    "motion": 17214,
+    "temperature": 26.22,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T14:58:15.166565043Z",
+    "battery": 3.087,
+    "humidity": 69.4,
+    "motion": 17235,
+    "temperature": 26.23,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T15:00:15.575194481Z",
+    "battery": 3.086,
+    "humidity": 69.4,
+    "motion": 17252,
+    "temperature": 26.22,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T15:03:00.299508481Z",
+    "battery": 3.087,
+    "humidity": 69.2,
+    "motion": 17264,
+    "temperature": 26.23,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T15:05:10.894296524Z",
+    "battery": 3.086,
+    "humidity": 67.9,
+    "motion": 17282,
+    "temperature": 26.23,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T15:11:15.824569329Z",
+    "battery": 3.085,
+    "humidity": 68.5,
+    "motion": 17296,
+    "temperature": 26.22,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T15:14:20.695758176Z",
+    "battery": 3.086,
+    "humidity": 69.1,
+    "motion": 17297,
+    "temperature": 26.24,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T15:16:34.740912140Z",
+    "battery": 3.086,
+    "humidity": 69.6,
+    "motion": 17299,
+    "temperature": 26.24,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T15:20:57.543653193Z",
+    "battery": 3.085,
+    "humidity": 69.8,
+    "motion": 17299,
+    "temperature": 26.26,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T15:27:16.801352926Z",
+    "battery": 3.086,
+    "humidity": 70.3,
+    "motion": 17300,
+    "temperature": 26.24,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T15:50:57.030398517Z",
+    "battery": 3.086,
+    "humidity": 70.2,
+    "motion": 17308,
+    "temperature": 26.33,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:07:40.043379711Z",
+    "battery": 3.086,
+    "humidity": 68.3,
+    "motion": 17309,
+    "temperature": 26.31,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:09:40.949303134Z",
+    "battery": 3.087,
+    "humidity": 69,
+    "motion": 17335,
+    "temperature": 26.27,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:11:43.743428072Z",
+    "battery": 3.086,
+    "humidity": 69.4,
+    "motion": 17351,
+    "temperature": 26.27,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:13:44.569888655Z",
+    "battery": 3.085,
+    "humidity": 69.6,
+    "motion": 17363,
+    "temperature": 26.26,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:15:50.544921878Z",
+    "battery": 3.086,
+    "humidity": 69.8,
+    "motion": 17382,
+    "temperature": 26.27,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:18:16.681137533Z",
+    "battery": 3.085,
+    "humidity": 69.9,
+    "motion": 17393,
+    "temperature": 26.23,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:20:28.415125526Z",
+    "battery": 3.086,
+    "humidity": 69.8,
+    "motion": 17403,
+    "temperature": 26.2,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:20:56.527623990Z",
+    "battery": 3.086,
+    "humidity": 69.8,
+    "motion": 17404,
+    "temperature": 26.22,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:22:33.275058721Z",
+    "battery": 3.087,
+    "humidity": 69.9,
+    "motion": 17407,
+    "temperature": 26.22,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:25:18.843219593Z",
+    "battery": 3.085,
+    "humidity": 70.3,
+    "motion": 17408,
+    "temperature": 26.15,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:29:53.676061926Z",
+    "battery": 3.085,
+    "humidity": 69.9,
+    "motion": 17416,
+    "temperature": 26.13,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:35:55.213169093Z",
+    "battery": 3.085,
+    "humidity": 69.3,
+    "motion": 17428,
+    "temperature": 26.16,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:38:31.425510263Z",
+    "battery": 3.087,
+    "humidity": 69.1,
+    "motion": 17430,
+    "temperature": 26.15,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:40:44.304665659Z",
+    "battery": 3.088,
+    "humidity": 69.3,
+    "motion": 17432,
+    "temperature": 26.15,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:44:33.126941551Z",
+    "battery": 3.085,
+    "humidity": 69.3,
+    "motion": 17433,
+    "temperature": 26.18,
+    "motion_status": "Activity"
+  },
+  {
+    "timestamp": "2025-09-24T16:50:55.969629802Z",
+    "battery": 3.086,
+    "humidity": 69.2,
+    "motion": 17440,
+    "temperature": 26.15,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T21:21:12.946483067Z",
+    "battery": 3.08,
+    "humidity": 69.4,
+    "motion": 7064,
+    "temperature": 25.51,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T21:31:12.806731862Z",
+    "battery": 3.08,
+    "humidity": 69.4,
+    "motion": 7064,
+    "temperature": 25.5,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T21:41:12.617209565Z",
+    "battery": 3.08,
+    "humidity": 69.7,
+    "motion": 7064,
+    "temperature": 25.47,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T21:51:12.417047514Z",
+    "battery": 3.081,
+    "humidity": 69.8,
+    "motion": 7064,
+    "temperature": 25.41,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T22:01:12.248903284Z",
+    "battery": 3.08,
+    "humidity": 70.1,
+    "motion": 7064,
+    "temperature": 25.38,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T22:11:12.077417313Z",
+    "battery": 3.079,
+    "humidity": 69.5,
+    "motion": 7064,
+    "temperature": 25.36,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T22:21:11.902184004Z",
+    "battery": 3.08,
+    "humidity": 70,
+    "motion": 7064,
+    "temperature": 25.33,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T22:31:11.734042245Z",
+    "battery": 3.08,
+    "humidity": 70,
+    "motion": 7064,
+    "temperature": 25.31,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T22:41:11.556819268Z",
+    "battery": 3.079,
+    "humidity": 69.8,
+    "motion": 7064,
+    "temperature": 25.3,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T22:51:11.427925384Z",
+    "battery": 3.08,
+    "humidity": 69.9,
+    "motion": 7064,
+    "temperature": 25.24,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T23:01:11.253297560Z",
+    "battery": 3.081,
+    "humidity": 69.7,
+    "motion": 7064,
+    "temperature": 25.23,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T23:11:11.079914351Z",
+    "battery": 3.08,
+    "humidity": 69.1,
+    "motion": 7064,
+    "temperature": 25.17,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T23:21:10.909160385Z",
+    "battery": 3.079,
+    "humidity": 68.9,
+    "motion": 7064,
+    "temperature": 25.06,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T23:31:10.715998272Z",
+    "battery": 3.081,
+    "humidity": 69.4,
+    "motion": 7064,
+    "temperature": 24.96,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T23:41:10.535120976Z",
+    "battery": 3.08,
+    "humidity": 69.7,
+    "motion": 7064,
+    "temperature": 24.96,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-09T23:51:10.379294422Z",
+    "battery": 3.08,
+    "humidity": 70,
+    "motion": 7064,
+    "temperature": 24.92,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T00:01:10.213291064Z",
+    "battery": 3.08,
+    "humidity": 70.2,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T00:11:10.023492741Z",
+    "battery": 3.08,
+    "humidity": 70.3,
+    "motion": 7064,
+    "temperature": 24.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T00:21:09.852238472Z",
+    "battery": 3.082,
+    "humidity": 70.5,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T00:31:09.667845775Z",
+    "battery": 3.081,
+    "humidity": 70.7,
+    "motion": 7064,
+    "temperature": 24.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T00:41:09.505807632Z",
+    "battery": 3.079,
+    "humidity": 70.8,
+    "motion": 7064,
+    "temperature": 24.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T00:51:09.322489199Z",
+    "battery": 3.08,
+    "humidity": 70.8,
+    "motion": 7064,
+    "temperature": 24.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T01:01:09.164445124Z",
+    "battery": 3.08,
+    "humidity": 71.1,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T01:11:08.974685640Z",
+    "battery": 3.079,
+    "humidity": 71.5,
+    "motion": 7064,
+    "temperature": 24.92,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T01:21:08.807956764Z",
+    "battery": 3.081,
+    "humidity": 71.4,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T01:31:08.624981222Z",
+    "battery": 3.078,
+    "humidity": 71.7,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T01:41:08.463817519Z",
+    "battery": 3.079,
+    "humidity": 71.6,
+    "motion": 7064,
+    "temperature": 24.87,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T01:51:08.281602366Z",
+    "battery": 3.079,
+    "humidity": 71.3,
+    "motion": 7064,
+    "temperature": 24.87,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T02:01:08.114782192Z",
+    "battery": 3.079,
+    "humidity": 71.1,
+    "motion": 7064,
+    "temperature": 24.86,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T02:11:07.915645955Z",
+    "battery": 3.079,
+    "humidity": 71.2,
+    "motion": 7064,
+    "temperature": 24.86,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T02:21:07.721259758Z",
+    "battery": 3.081,
+    "humidity": 71.1,
+    "motion": 7064,
+    "temperature": 24.83,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T02:31:07.565477527Z",
+    "battery": 3.079,
+    "humidity": 71,
+    "motion": 7064,
+    "temperature": 24.85,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T02:41:07.394082646Z",
+    "battery": 3.081,
+    "humidity": 71.1,
+    "motion": 7064,
+    "temperature": 24.81,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T02:51:07.196094234Z",
+    "battery": 3.081,
+    "humidity": 71.4,
+    "motion": 7064,
+    "temperature": 24.81,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T03:01:07.067499224Z",
+    "battery": 3.08,
+    "humidity": 71,
+    "motion": 7064,
+    "temperature": 24.79,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T03:11:06.903042595Z",
+    "battery": 3.081,
+    "humidity": 71.3,
+    "motion": 7064,
+    "temperature": 24.75,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T03:21:06.761409162Z",
+    "battery": 3.079,
+    "humidity": 72.2,
+    "motion": 7064,
+    "temperature": 24.71,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T03:31:06.538941681Z",
+    "battery": 3.08,
+    "humidity": 72.1,
+    "motion": 7064,
+    "temperature": 24.65,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T03:41:06.520590831Z",
+    "battery": 3.081,
+    "humidity": 72.1,
+    "motion": 7064,
+    "temperature": 24.61,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T03:51:06.200080967Z",
+    "battery": 3.08,
+    "humidity": 72.4,
+    "motion": 7064,
+    "temperature": 24.61,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T04:01:05.998638056Z",
+    "battery": 3.078,
+    "humidity": 72.7,
+    "motion": 7064,
+    "temperature": 24.61,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T04:11:05.838636584Z",
+    "battery": 3.081,
+    "humidity": 76.6,
+    "motion": 7091,
+    "temperature": 24.86,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T04:21:05.672128234Z",
+    "battery": 3.079,
+    "humidity": 71.7,
+    "motion": 7091,
+    "temperature": 24.75,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T04:31:05.516866366Z",
+    "battery": 3.08,
+    "humidity": 72.2,
+    "motion": 7091,
+    "temperature": 24.65,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T04:41:05.330928895Z",
+    "battery": 3.082,
+    "humidity": 72.8,
+    "motion": 7091,
+    "temperature": 24.64,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T04:51:05.150286931Z",
+    "battery": 3.08,
+    "humidity": 72.6,
+    "motion": 7091,
+    "temperature": 24.75,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T05:01:04.974381096Z",
+    "battery": 3.08,
+    "humidity": 73.4,
+    "motion": 7091,
+    "temperature": 24.76,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T05:11:04.807903738Z",
+    "battery": 3.08,
+    "humidity": 73.6,
+    "motion": 7091,
+    "temperature": 24.78,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T05:21:04.624415170Z",
+    "battery": 3.08,
+    "humidity": 74,
+    "motion": 7091,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T05:31:04.447341165Z",
+    "battery": 3.08,
+    "humidity": 73.9,
+    "motion": 7091,
+    "temperature": 25.12,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T05:41:04.278555897Z",
+    "battery": 3.081,
+    "humidity": 72.4,
+    "motion": 7091,
+    "temperature": 25.21,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T05:51:04.089990969Z",
+    "battery": 3.08,
+    "humidity": 72.2,
+    "motion": 7091,
+    "temperature": 25.31,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T06:01:03.940187720Z",
+    "battery": 3.08,
+    "humidity": 72.3,
+    "motion": 7091,
+    "temperature": 25.41,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T06:11:03.746572007Z",
+    "battery": 3.081,
+    "humidity": 71.9,
+    "motion": 7091,
+    "temperature": 25.57,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T06:21:03.588054054Z",
+    "battery": 3.08,
+    "humidity": 71.5,
+    "motion": 7091,
+    "temperature": 25.67,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T06:31:03.401195990Z",
+    "battery": 3.081,
+    "humidity": 71.4,
+    "motion": 7091,
+    "temperature": 25.76,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T06:41:03.220076609Z",
+    "battery": 3.079,
+    "humidity": 70,
+    "motion": 7091,
+    "temperature": 25.85,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T06:51:03.071559199Z",
+    "battery": 3.08,
+    "humidity": 69.1,
+    "motion": 7091,
+    "temperature": 25.93,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T07:01:03.021816531Z",
+    "battery": 3.079,
+    "humidity": 69.5,
+    "motion": 7091,
+    "temperature": 25.99,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T07:11:02.730494337Z",
+    "battery": 3.081,
+    "humidity": 70,
+    "motion": 7091,
+    "temperature": 26.03,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T07:21:02.537799842Z",
+    "battery": 3.08,
+    "humidity": 69.6,
+    "motion": 7091,
+    "temperature": 26.09,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T07:31:02.369910746Z",
+    "battery": 3.079,
+    "humidity": 68.8,
+    "motion": 7091,
+    "temperature": 26.12,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T07:41:02.183342739Z",
+    "battery": 3.081,
+    "humidity": 66.8,
+    "motion": 7091,
+    "temperature": 26.18,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T07:51:02.015162323Z",
+    "battery": 3.08,
+    "humidity": 65.7,
+    "motion": 7091,
+    "temperature": 26.2,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T08:01:01.852794738Z",
+    "battery": 3.079,
+    "humidity": 66.5,
+    "motion": 7091,
+    "temperature": 26.22,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T08:11:01.661077485Z",
+    "battery": 3.08,
+    "humidity": 66.1,
+    "motion": 7091,
+    "temperature": 26.22,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T08:21:01.510983819Z",
+    "battery": 3.08,
+    "humidity": 65.1,
+    "motion": 7091,
+    "temperature": 26.23,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T08:31:01.285697374Z",
+    "battery": 3.079,
+    "humidity": 64.9,
+    "motion": 7091,
+    "temperature": 26.24,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T08:41:01.115834335Z",
+    "battery": 3.081,
+    "humidity": 65.6,
+    "motion": 7091,
+    "temperature": 26.24,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T08:51:00.932362797Z",
+    "battery": 3.079,
+    "humidity": 65.8,
+    "motion": 7091,
+    "temperature": 26.2,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T09:01:00.747924727Z",
+    "battery": 3.08,
+    "humidity": 66.3,
+    "motion": 7091,
+    "temperature": 26.2,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T09:11:00.576093874Z",
+    "battery": 3.079,
+    "humidity": 66.4,
+    "motion": 7091,
+    "temperature": 26.19,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T09:31:00.228443563Z",
+    "battery": 3.079,
+    "humidity": 67.2,
+    "motion": 7091,
+    "temperature": 26.15,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10T09:41:00.045021184Z",
+    "battery": 3.08,
+    "humidity": 67.1,
+    "motion": 7091,
+    "temperature": 26.06,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 00:51:12",
+    "battery": 3.081,
+    "humidity": 69.8,
+    "motion": 7064,
+    "temperature": 25.41,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 01:01:12",
+    "battery": 3.08,
+    "humidity": 70.1,
+    "motion": 7064,
+    "temperature": 25.38,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 01:11:12",
+    "battery": 3.079,
+    "humidity": 69.5,
+    "motion": 7064,
+    "temperature": 25.36,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 01:21:11",
+    "battery": 3.08,
+    "humidity": 70,
+    "motion": 7064,
+    "temperature": 25.33,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 01:31:11",
+    "battery": 3.08,
+    "humidity": 70,
+    "motion": 7064,
+    "temperature": 25.31,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 01:41:11",
+    "battery": 3.079,
+    "humidity": 69.8,
+    "motion": 7064,
+    "temperature": 25.3,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 01:51:11",
+    "battery": 3.08,
+    "humidity": 69.9,
+    "motion": 7064,
+    "temperature": 25.24,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 02:01:11",
+    "battery": 3.081,
+    "humidity": 69.7,
+    "motion": 7064,
+    "temperature": 25.23,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 02:11:11",
+    "battery": 3.08,
+    "humidity": 69.1,
+    "motion": 7064,
+    "temperature": 25.17,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 02:21:10",
+    "battery": 3.079,
+    "humidity": 68.9,
+    "motion": 7064,
+    "temperature": 25.06,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 02:31:10",
+    "battery": 3.081,
+    "humidity": 69.4,
+    "motion": 7064,
+    "temperature": 24.96,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 02:41:10",
+    "battery": 3.08,
+    "humidity": 69.7,
+    "motion": 7064,
+    "temperature": 24.96,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 02:51:10",
+    "battery": 3.08,
+    "humidity": 70,
+    "motion": 7064,
+    "temperature": 24.92,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 03:01:10",
+    "battery": 3.08,
+    "humidity": 70.2,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 03:11:10",
+    "battery": 3.08,
+    "humidity": 70.3,
+    "motion": 7064,
+    "temperature": 24.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 03:21:09",
+    "battery": 3.082,
+    "humidity": 70.5,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 03:31:09",
+    "battery": 3.081,
+    "humidity": 70.7,
+    "motion": 7064,
+    "temperature": 24.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 03:41:09",
+    "battery": 3.079,
+    "humidity": 70.8,
+    "motion": 7064,
+    "temperature": 24.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 03:51:09",
+    "battery": 3.08,
+    "humidity": 70.8,
+    "motion": 7064,
+    "temperature": 24.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 04:01:09",
+    "battery": 3.08,
+    "humidity": 71.1,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 04:11:08",
+    "battery": 3.079,
+    "humidity": 71.5,
+    "motion": 7064,
+    "temperature": 24.92,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 04:21:08",
+    "battery": 3.081,
+    "humidity": 71.4,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 04:31:08",
+    "battery": 3.078,
+    "humidity": 71.7,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 04:41:08",
+    "battery": 3.079,
+    "humidity": 71.6,
+    "motion": 7064,
+    "temperature": 24.87,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 04:51:08",
+    "battery": 3.079,
+    "humidity": 71.3,
+    "motion": 7064,
+    "temperature": 24.87,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 05:01:08",
+    "battery": 3.079,
+    "humidity": 71.1,
+    "motion": 7064,
+    "temperature": 24.86,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 05:11:07",
+    "battery": 3.079,
+    "humidity": 71.2,
+    "motion": 7064,
+    "temperature": 24.86,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 05:21:07",
+    "battery": 3.081,
+    "humidity": 71.1,
+    "motion": 7064,
+    "temperature": 24.83,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 05:31:07",
+    "battery": 3.079,
+    "humidity": 71,
+    "motion": 7064,
+    "temperature": 24.85,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 05:41:07",
+    "battery": 3.081,
+    "humidity": 71.1,
+    "motion": 7064,
+    "temperature": 24.81,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 05:51:07",
+    "battery": 3.081,
+    "humidity": 71.4,
+    "motion": 7064,
+    "temperature": 24.81,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 06:01:07",
+    "battery": 3.08,
+    "humidity": 71,
+    "motion": 7064,
+    "temperature": 24.79,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 06:11:06",
+    "battery": 3.081,
+    "humidity": 71.3,
+    "motion": 7064,
+    "temperature": 24.75,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 06:21:06",
+    "battery": 3.079,
+    "humidity": 72.2,
+    "motion": 7064,
+    "temperature": 24.71,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 06:31:06",
+    "battery": 3.08,
+    "humidity": 72.1,
+    "motion": 7064,
+    "temperature": 24.65,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 06:41:06",
+    "battery": 3.081,
+    "humidity": 72.1,
+    "motion": 7064,
+    "temperature": 24.61,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 06:51:06",
+    "battery": 3.08,
+    "humidity": 72.4,
+    "motion": 7064,
+    "temperature": 24.61,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 07:01:05",
+    "battery": 3.078,
+    "humidity": 72.7,
+    "motion": 7064,
+    "temperature": 24.61,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 07:11:05",
+    "battery": 3.081,
+    "humidity": 76.6,
+    "motion": 7091,
+    "temperature": 24.86,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 07:21:05",
+    "battery": 3.079,
+    "humidity": 71.7,
+    "motion": 7091,
+    "temperature": 24.75,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 07:31:05",
+    "battery": 3.08,
+    "humidity": 72.2,
+    "motion": 7091,
+    "temperature": 24.65,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 07:41:05",
+    "battery": 3.082,
+    "humidity": 72.8,
+    "motion": 7091,
+    "temperature": 24.64,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 07:51:05",
+    "battery": 3.08,
+    "humidity": 72.6,
+    "motion": 7091,
+    "temperature": 24.75,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 08:01:04",
+    "battery": 3.08,
+    "humidity": 73.4,
+    "motion": 7091,
+    "temperature": 24.76,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 08:11:04",
+    "battery": 3.08,
+    "humidity": 73.6,
+    "motion": 7091,
+    "temperature": 24.78,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 08:21:04",
+    "battery": 3.08,
+    "humidity": 74,
+    "motion": 7091,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 08:31:04",
+    "battery": 3.08,
+    "humidity": 73.9,
+    "motion": 7091,
+    "temperature": 25.12,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 08:41:04",
+    "battery": 3.081,
+    "humidity": 72.4,
+    "motion": 7091,
+    "temperature": 25.21,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 08:51:04",
+    "battery": 3.08,
+    "humidity": 72.2,
+    "motion": 7091,
+    "temperature": 25.31,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 09:01:03",
+    "battery": 3.08,
+    "humidity": 72.3,
+    "motion": 7091,
+    "temperature": 25.41,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 09:11:03",
+    "battery": 3.081,
+    "humidity": 71.9,
+    "motion": 7091,
+    "temperature": 25.57,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 09:21:03",
+    "battery": 3.08,
+    "humidity": 71.5,
+    "motion": 7091,
+    "temperature": 25.67,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 09:31:03",
+    "battery": 3.081,
+    "humidity": 71.4,
+    "motion": 7091,
+    "temperature": 25.76,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 09:41:03",
+    "battery": 3.079,
+    "humidity": 70,
+    "motion": 7091,
+    "temperature": 25.85,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 09:51:03",
+    "battery": 3.08,
+    "humidity": 69.1,
+    "motion": 7091,
+    "temperature": 25.93,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 10:01:03",
+    "battery": 3.079,
+    "humidity": 69.5,
+    "motion": 7091,
+    "temperature": 25.99,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 10:11:02",
+    "battery": 3.081,
+    "humidity": 70,
+    "motion": 7091,
+    "temperature": 26.03,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 10:21:02",
+    "battery": 3.08,
+    "humidity": 69.6,
+    "motion": 7091,
+    "temperature": 26.09,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 10:31:02",
+    "battery": 3.079,
+    "humidity": 68.8,
+    "motion": 7091,
+    "temperature": 26.12,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 10:41:02",
+    "battery": 3.081,
+    "humidity": 66.8,
+    "motion": 7091,
+    "temperature": 26.18,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 10:51:02",
+    "battery": 3.08,
+    "humidity": 65.7,
+    "motion": 7091,
+    "temperature": 26.2,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 11:01:01",
+    "battery": 3.079,
+    "humidity": 66.5,
+    "motion": 7091,
+    "temperature": 26.22,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 11:11:01",
+    "battery": 3.08,
+    "humidity": 66.1,
+    "motion": 7091,
+    "temperature": 26.22,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 11:21:01",
+    "battery": 3.08,
+    "humidity": 65.1,
+    "motion": 7091,
+    "temperature": 26.23,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 11:31:01",
+    "battery": 3.079,
+    "humidity": 64.9,
+    "motion": 7091,
+    "temperature": 26.24,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 11:41:01",
+    "battery": 3.081,
+    "humidity": 65.6,
+    "motion": 7091,
+    "temperature": 26.24,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 11:51:00",
+    "battery": 3.079,
+    "humidity": 65.8,
+    "motion": 7091,
+    "temperature": 26.2,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 12:01:00",
+    "battery": 3.08,
+    "humidity": 66.3,
+    "motion": 7091,
+    "temperature": 26.2,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 12:11:00",
+    "battery": 3.079,
+    "humidity": 66.4,
+    "motion": 7091,
+    "temperature": 26.19,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 12:21:00",
+    "battery": 3.08,
+    "humidity": 66.8,
+    "motion": 7091,
+    "temperature": 26.22,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 12:31:00",
+    "battery": 3.079,
+    "humidity": 67.2,
+    "motion": 7091,
+    "temperature": 26.15,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 12:41:00",
+    "battery": 3.08,
+    "humidity": 67.1,
+    "motion": 7091,
+    "temperature": 26.06,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 12:50:59",
+    "battery": 3.079,
+    "humidity": 66.5,
+    "motion": 7091,
+    "temperature": 25.96,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 13:00:59",
+    "battery": 3.08,
+    "humidity": 66.8,
+    "motion": 7091,
+    "temperature": 25.91,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 13:10:59",
+    "battery": 3.08,
+    "humidity": 66.4,
+    "motion": 7091,
+    "temperature": 25.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 13:20:59",
+    "battery": 3.08,
+    "humidity": 66.2,
+    "motion": 7091,
+    "temperature": 25.88,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 13:30:59",
+    "battery": 3.08,
+    "humidity": 65.2,
+    "motion": 7091,
+    "temperature": 25.88,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 01:41:11",
+    "battery": 3.079,
+    "humidity": 69.8,
+    "motion": 7064,
+    "temperature": 25.3,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 01:51:11",
+    "battery": 3.08,
+    "humidity": 69.9,
+    "motion": 7064,
+    "temperature": 25.24,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 02:01:11",
+    "battery": 3.081,
+    "humidity": 69.7,
+    "motion": 7064,
+    "temperature": 25.23,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 02:11:11",
+    "battery": 3.08,
+    "humidity": 69.1,
+    "motion": 7064,
+    "temperature": 25.17,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 02:21:10",
+    "battery": 3.079,
+    "humidity": 68.9,
+    "motion": 7064,
+    "temperature": 25.06,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 02:31:10",
+    "battery": 3.081,
+    "humidity": 69.4,
+    "motion": 7064,
+    "temperature": 24.96,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 02:41:10",
+    "battery": 3.08,
+    "humidity": 69.7,
+    "motion": 7064,
+    "temperature": 24.96,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 02:51:10",
+    "battery": 3.08,
+    "humidity": 70,
+    "motion": 7064,
+    "temperature": 24.92,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 03:01:10",
+    "battery": 3.08,
+    "humidity": 70.2,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 03:11:10",
+    "battery": 3.08,
+    "humidity": 70.3,
+    "motion": 7064,
+    "temperature": 24.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 03:21:09",
+    "battery": 3.082,
+    "humidity": 70.5,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 03:31:09",
+    "battery": 3.081,
+    "humidity": 70.7,
+    "motion": 7064,
+    "temperature": 24.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 03:41:09",
+    "battery": 3.079,
+    "humidity": 70.8,
+    "motion": 7064,
+    "temperature": 24.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 03:51:09",
+    "battery": 3.08,
+    "humidity": 70.8,
+    "motion": 7064,
+    "temperature": 24.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 04:01:09",
+    "battery": 3.08,
+    "humidity": 71.1,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 04:11:08",
+    "battery": 3.079,
+    "humidity": 71.5,
+    "motion": 7064,
+    "temperature": 24.92,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 04:21:08",
+    "battery": 3.081,
+    "humidity": 71.4,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 04:31:08",
+    "battery": 3.078,
+    "humidity": 71.7,
+    "motion": 7064,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 04:41:08",
+    "battery": 3.079,
+    "humidity": 71.6,
+    "motion": 7064,
+    "temperature": 24.87,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 04:51:08",
+    "battery": 3.079,
+    "humidity": 71.3,
+    "motion": 7064,
+    "temperature": 24.87,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 05:01:08",
+    "battery": 3.079,
+    "humidity": 71.1,
+    "motion": 7064,
+    "temperature": 24.86,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 05:11:07",
+    "battery": 3.079,
+    "humidity": 71.2,
+    "motion": 7064,
+    "temperature": 24.86,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 05:21:07",
+    "battery": 3.081,
+    "humidity": 71.1,
+    "motion": 7064,
+    "temperature": 24.83,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 05:31:07",
+    "battery": 3.079,
+    "humidity": 71,
+    "motion": 7064,
+    "temperature": 24.85,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 05:41:07",
+    "battery": 3.081,
+    "humidity": 71.1,
+    "motion": 7064,
+    "temperature": 24.81,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 05:51:07",
+    "battery": 3.081,
+    "humidity": 71.4,
+    "motion": 7064,
+    "temperature": 24.81,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 06:01:07",
+    "battery": 3.08,
+    "humidity": 71,
+    "motion": 7064,
+    "temperature": 24.79,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 06:11:06",
+    "battery": 3.081,
+    "humidity": 71.3,
+    "motion": 7064,
+    "temperature": 24.75,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 06:21:06",
+    "battery": 3.079,
+    "humidity": 72.2,
+    "motion": 7064,
+    "temperature": 24.71,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 06:31:06",
+    "battery": 3.08,
+    "humidity": 72.1,
+    "motion": 7064,
+    "temperature": 24.65,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 06:41:06",
+    "battery": 3.081,
+    "humidity": 72.1,
+    "motion": 7064,
+    "temperature": 24.61,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 06:51:06",
+    "battery": 3.08,
+    "humidity": 72.4,
+    "motion": 7064,
+    "temperature": 24.61,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 07:01:05",
+    "battery": 3.078,
+    "humidity": 72.7,
+    "motion": 7064,
+    "temperature": 24.61,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 07:11:05",
+    "battery": 3.081,
+    "humidity": 76.6,
+    "motion": 7091,
+    "temperature": 24.86,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 07:21:05",
+    "battery": 3.079,
+    "humidity": 71.7,
+    "motion": 7091,
+    "temperature": 24.75,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 07:31:05",
+    "battery": 3.08,
+    "humidity": 72.2,
+    "motion": 7091,
+    "temperature": 24.65,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 07:41:05",
+    "battery": 3.082,
+    "humidity": 72.8,
+    "motion": 7091,
+    "temperature": 24.64,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 07:51:05",
+    "battery": 3.08,
+    "humidity": 72.6,
+    "motion": 7091,
+    "temperature": 24.75,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 08:01:04",
+    "battery": 3.08,
+    "humidity": 73.4,
+    "motion": 7091,
+    "temperature": 24.76,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 08:11:04",
+    "battery": 3.08,
+    "humidity": 73.6,
+    "motion": 7091,
+    "temperature": 24.78,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 08:21:04",
+    "battery": 3.08,
+    "humidity": 74,
+    "motion": 7091,
+    "temperature": 24.9,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 08:31:04",
+    "battery": 3.08,
+    "humidity": 73.9,
+    "motion": 7091,
+    "temperature": 25.12,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 08:41:04",
+    "battery": 3.081,
+    "humidity": 72.4,
+    "motion": 7091,
+    "temperature": 25.21,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 08:51:04",
+    "battery": 3.08,
+    "humidity": 72.2,
+    "motion": 7091,
+    "temperature": 25.31,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 09:01:03",
+    "battery": 3.08,
+    "humidity": 72.3,
+    "motion": 7091,
+    "temperature": 25.41,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 09:11:03",
+    "battery": 3.081,
+    "humidity": 71.9,
+    "motion": 7091,
+    "temperature": 25.57,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 09:21:03",
+    "battery": 3.08,
+    "humidity": 71.5,
+    "motion": 7091,
+    "temperature": 25.67,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 09:31:03",
+    "battery": 3.081,
+    "humidity": 71.4,
+    "motion": 7091,
+    "temperature": 25.76,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 09:41:03",
+    "battery": 3.079,
+    "humidity": 70,
+    "motion": 7091,
+    "temperature": 25.85,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 09:51:03",
+    "battery": 3.08,
+    "humidity": 69.1,
+    "motion": 7091,
+    "temperature": 25.93,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 10:01:03",
+    "battery": 3.079,
+    "humidity": 69.5,
+    "motion": 7091,
+    "temperature": 25.99,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 10:11:02",
+    "battery": 3.081,
+    "humidity": 70,
+    "motion": 7091,
+    "temperature": 26.03,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 10:21:02",
+    "battery": 3.08,
+    "humidity": 69.6,
+    "motion": 7091,
+    "temperature": 26.09,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 10:31:02",
+    "battery": 3.079,
+    "humidity": 68.8,
+    "motion": 7091,
+    "temperature": 26.12,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 10:41:02",
+    "battery": 3.081,
+    "humidity": 66.8,
+    "motion": 7091,
+    "temperature": 26.18,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 10:51:02",
+    "battery": 3.08,
+    "humidity": 65.7,
+    "motion": 7091,
+    "temperature": 26.2,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 11:01:01",
+    "battery": 3.079,
+    "humidity": 66.5,
+    "motion": 7091,
+    "temperature": 26.22,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 11:11:01",
+    "battery": 3.08,
+    "humidity": 66.1,
+    "motion": 7091,
+    "temperature": 26.22,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 11:21:01",
+    "battery": 3.08,
+    "humidity": 65.1,
+    "motion": 7091,
+    "temperature": 26.23,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 11:31:01",
+    "battery": 3.079,
+    "humidity": 64.9,
+    "motion": 7091,
+    "temperature": 26.24,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 11:41:01",
+    "battery": 3.081,
+    "humidity": 65.6,
+    "motion": 7091,
+    "temperature": 26.24,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 11:51:00",
+    "battery": 3.079,
+    "humidity": 65.8,
+    "motion": 7091,
+    "temperature": 26.2,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 12:01:00",
+    "battery": 3.08,
+    "humidity": 66.3,
+    "motion": 7091,
+    "temperature": 26.2,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 12:11:00",
+    "battery": 3.079,
+    "humidity": 66.4,
+    "motion": 7091,
+    "temperature": 26.19,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 12:21:00",
+    "battery": 3.08,
+    "humidity": 66.8,
+    "motion": 7091,
+    "temperature": 26.22,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 12:31:00",
+    "battery": 3.079,
+    "humidity": 67.2,
+    "motion": 7091,
+    "temperature": 26.15,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 12:41:00",
+    "battery": 3.08,
+    "humidity": 67.1,
+    "motion": 7091,
+    "temperature": 26.06,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 12:50:59",
+    "battery": 3.079,
+    "humidity": 66.5,
+    "motion": 7091,
+    "temperature": 25.96,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 13:00:59",
+    "battery": 3.08,
+    "humidity": 66.8,
+    "motion": 7091,
+    "temperature": 25.91,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 13:10:59",
+    "battery": 3.08,
+    "humidity": 66.4,
+    "motion": 7091,
+    "temperature": 25.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 13:20:59",
+    "battery": 3.08,
+    "humidity": 66.2,
+    "motion": 7091,
+    "temperature": 25.88,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 13:30:59",
+    "battery": 3.08,
+    "humidity": 65.2,
+    "motion": 7091,
+    "temperature": 25.88,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 14:00:58",
+    "battery": 3.08,
+    "humidity": 65.2,
+    "motion": 7091,
+    "temperature": 25.85,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 14:10:58",
+    "battery": 3.079,
+    "humidity": 66.7,
+    "motion": 7091,
+    "temperature": 25.84,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 14:20:58",
+    "battery": 3.08,
+    "humidity": 67.1,
+    "motion": 7091,
+    "temperature": 25.85,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 14:30:58",
+    "battery": 3.079,
+    "humidity": 67.5,
+    "motion": 7091,
+    "temperature": 25.88,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 14:40:57",
+    "battery": 3.081,
+    "humidity": 67.9,
+    "motion": 7091,
+    "temperature": 25.89,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 14:50:57",
+    "battery": 3.08,
+    "humidity": 68.4,
+    "motion": 7091,
+    "temperature": 25.99,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 15:00:57",
+    "battery": 3.08,
+    "humidity": 68.3,
+    "motion": 7091,
+    "temperature": 26.03,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 15:10:57",
+    "battery": 3.08,
+    "humidity": 68,
+    "motion": 7091,
+    "temperature": 26.06,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 15:20:57",
+    "battery": 3.08,
+    "humidity": 66.3,
+    "motion": 7091,
+    "temperature": 26.15,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 15:30:57",
+    "battery": 3.08,
+    "humidity": 64.5,
+    "motion": 7091,
+    "temperature": 26.18,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-10 15:40:56",
+    "battery": 3.08,
+    "humidity": 64.3,
+    "motion": 7091,
+    "temperature": 26.22,
+    "motion_status": "No activity"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T14:48:05.254728",
+    "battery_voltage": 3.084,
+    "humidity": 69.2,
+    "motion_counts": 7561,
+    "temperature": 25.16,
+    "received_at": "2025-10-14T14:48:05.254728",
+    "ttn_received_at": "2025-10-14T14:48:06.010066984Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T14:48:05.262781",
+    "battery_voltage": 3.084,
+    "humidity": 69.2,
+    "motion_counts": 7561,
+    "temperature": 25.16,
+    "received_at": "2025-10-14T14:48:05.262781",
+    "ttn_received_at": "2025-10-14T14:48:06.010066984Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T14:49:13.740063",
+    "battery_voltage": 3.084,
+    "humidity": 69.1,
+    "motion_counts": 7562,
+    "temperature": 25.17,
+    "received_at": "2025-10-14T14:49:13.740063",
+    "ttn_received_at": "2025-10-14T14:49:14.212574653Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T14:51:28.302606",
+    "battery_voltage": 3.084,
+    "humidity": 69.1,
+    "motion_counts": 7563,
+    "temperature": 25.17,
+    "received_at": "2025-10-14T14:51:28.302606",
+    "ttn_received_at": "2025-10-14T14:51:27.501417215Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T14:53:39.637728",
+    "battery_voltage": 3.085,
+    "humidity": 68.9,
+    "motion_counts": 7572,
+    "temperature": 25.16,
+    "received_at": "2025-10-14T14:53:39.637728",
+    "ttn_received_at": "2025-10-14T14:53:37.932917250Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T14:53:41.628952",
+    "battery_voltage": 3.085,
+    "humidity": 68.9,
+    "motion_counts": 7572,
+    "temperature": 25.16,
+    "received_at": "2025-10-14T14:53:41.628952",
+    "ttn_received_at": "2025-10-14T14:53:37.932917250Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T14:56:16.714928",
+    "battery_voltage": 3.084,
+    "humidity": 68.6,
+    "motion_counts": 7579,
+    "temperature": 25.16,
+    "received_at": "2025-10-14T14:56:16.714928",
+    "ttn_received_at": "2025-10-14T14:56:10.081561221Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T14:58:22.116026",
+    "battery_voltage": 3.083,
+    "humidity": 68.7,
+    "motion_counts": 7582,
+    "temperature": 25.14,
+    "received_at": "2025-10-14T14:58:22.116026",
+    "ttn_received_at": "2025-10-14T14:58:22.607950415Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T14:59:13.288404",
+    "battery_voltage": 3.084,
+    "humidity": 68.4,
+    "motion_counts": 7583,
+    "temperature": 25.17,
+    "received_at": "2025-10-14T14:59:13.288404",
+    "ttn_received_at": "2025-10-14T14:59:14.046160821Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:00:24.200311",
+    "battery_voltage": 3.083,
+    "humidity": 68.5,
+    "motion_counts": 7587,
+    "temperature": 25.14,
+    "received_at": "2025-10-14T15:00:24.200311",
+    "ttn_received_at": "2025-10-14T15:00:23.308250266Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:02:30.672561",
+    "battery_voltage": 3.083,
+    "humidity": 68.7,
+    "motion_counts": 7598,
+    "temperature": 25.14,
+    "received_at": "2025-10-14T15:02:30.672561",
+    "ttn_received_at": "2025-10-14T15:02:24.084181754Z"
+  },
+  {
+    "timestamp": "2025-10-14 06:09:26",
+    "battery": 3.085,
+    "humidity": 66.8,
+    "motion": 7388,
+    "temperature": 25.71,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-14 06:19:26",
+    "battery": 3.085,
+    "humidity": 66.7,
+    "motion": 7388,
+    "temperature": 25.65,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-14 06:29:26",
+    "battery": 3.084,
+    "humidity": 67.2,
+    "motion": 7388,
+    "temperature": 25.65,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-14 06:39:26",
+    "battery": 3.085,
+    "humidity": 67.5,
+    "motion": 7388,
+    "temperature": 25.6,
+    "motion_status": "No activity"
+  },
+  {
+    "timestamp": "2025-10-14 06:49:25",
+    "battery": 3.084,
+    "humidity": 68.4,
+    "motion": 7388,
+    "temperature": 25.52,
+    "motion_status": "No activity"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:13:15.456634",
+    "battery_voltage": 3.084,
+    "humidity": 68.9,
+    "motion_counts": 7603,
+    "temperature": 25.09,
+    "received_at": "2025-10-14T15:13:15.456634",
+    "ttn_received_at": "2025-10-14T15:13:16.879619290Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:15:46.239731",
+    "battery_voltage": 3.084,
+    "humidity": 69,
+    "motion_counts": 7605,
+    "temperature": 25.1,
+    "received_at": "2025-10-14T15:15:46.239731",
+    "ttn_received_at": "2025-10-14T15:15:47.575459685Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:19:12.380929",
+    "battery_voltage": 3.082,
+    "humidity": 69.3,
+    "motion_counts": 7606,
+    "temperature": 25.09,
+    "received_at": "2025-10-14T15:19:12.380929",
+    "ttn_received_at": "2025-10-14T15:19:13.690092248Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:24:11.389546",
+    "battery_voltage": 3.083,
+    "humidity": 69.3,
+    "motion_counts": 7607,
+    "temperature": 25.12,
+    "received_at": "2025-10-14T15:24:11.389546",
+    "ttn_received_at": "2025-10-14T15:24:12.795021874Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:26:14.949076",
+    "battery_voltage": 3.083,
+    "humidity": 69.1,
+    "motion_counts": 7615,
+    "temperature": 25.1,
+    "received_at": "2025-10-14T15:26:14.949076",
+    "ttn_received_at": "2025-10-14T15:26:16.371475959Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:28:34.187512",
+    "battery_voltage": 3.083,
+    "humidity": 69.2,
+    "motion_counts": 7618,
+    "temperature": 25.08,
+    "received_at": "2025-10-14T15:28:34.187512",
+    "ttn_received_at": "2025-10-14T15:28:35.566109582Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:29:12.067966",
+    "battery_voltage": 3.084,
+    "humidity": 69.2,
+    "motion_counts": 7619,
+    "temperature": 25.09,
+    "received_at": "2025-10-14T15:29:12.067966",
+    "ttn_received_at": "2025-10-14T15:29:13.469377439Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:39:11.889492",
+    "battery_voltage": 3.085,
+    "humidity": 69.6,
+    "motion_counts": 7619,
+    "temperature": 25.05,
+    "received_at": "2025-10-14T15:39:11.889492",
+    "ttn_received_at": "2025-10-14T15:39:13.304291844Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:41:22.278706",
+    "battery_voltage": 3.083,
+    "humidity": 69.8,
+    "motion_counts": 7620,
+    "temperature": 25.05,
+    "received_at": "2025-10-14T15:41:22.278706",
+    "ttn_received_at": "2025-10-14T15:41:23.699653699Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:48:36.043148",
+    "battery_voltage": 3.083,
+    "humidity": 70.1,
+    "motion_counts": 7622,
+    "temperature": 25.05,
+    "received_at": "2025-10-14T15:48:36.043148",
+    "ttn_received_at": "2025-10-14T15:48:35.763094726Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:49:13.450579",
+    "battery_voltage": 3.084,
+    "humidity": 70.2,
+    "motion_counts": 7623,
+    "temperature": 25.08,
+    "received_at": "2025-10-14T15:49:13.450579",
+    "ttn_received_at": "2025-10-14T15:49:13.176424515Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:50:50.134587",
+    "battery_voltage": 3.084,
+    "humidity": 70.3,
+    "motion_counts": 7626,
+    "temperature": 25.09,
+    "received_at": "2025-10-14T15:50:50.134587",
+    "ttn_received_at": "2025-10-14T15:50:49.876942067Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:53:04.961684",
+    "battery_voltage": 3.084,
+    "humidity": 70.2,
+    "motion_counts": 7632,
+    "temperature": 25.06,
+    "received_at": "2025-10-14T15:53:04.961684",
+    "ttn_received_at": "2025-10-14T15:53:04.631680032Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:56:00.091198",
+    "battery_voltage": 3.083,
+    "humidity": 70.8,
+    "motion_counts": 7634,
+    "temperature": 25.08,
+    "received_at": "2025-10-14T15:56:00.091198",
+    "ttn_received_at": "2025-10-14T15:55:59.808376101Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T15:59:14.059508",
+    "battery_voltage": 3.084,
+    "humidity": 70.6,
+    "motion_counts": 7635,
+    "temperature": 25.08,
+    "received_at": "2025-10-14T15:59:14.059508",
+    "ttn_received_at": "2025-10-14T15:59:13.001022785Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:04:36.343594",
+    "battery_voltage": 3.082,
+    "humidity": 72.1,
+    "motion_counts": 7636,
+    "temperature": 25.13,
+    "received_at": "2025-10-14T16:04:36.343594",
+    "ttn_received_at": "2025-10-14T16:04:35.520252214Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:07:08.582755",
+    "battery_voltage": 3.085,
+    "humidity": 73,
+    "motion_counts": 7641,
+    "temperature": 25.14,
+    "received_at": "2025-10-14T16:07:08.582755",
+    "ttn_received_at": "2025-10-14T16:07:07.752337654Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:13:53.904064",
+    "battery_voltage": 3.085,
+    "humidity": 72.9,
+    "motion_counts": 7642,
+    "temperature": 25.2,
+    "received_at": "2025-10-14T16:13:53.904064",
+    "ttn_received_at": "2025-10-14T16:13:53.077771874Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:19:13.351464",
+    "battery_voltage": 3.082,
+    "humidity": 74.6,
+    "motion_counts": 7650,
+    "temperature": 25.23,
+    "received_at": "2025-10-14T16:19:13.351464",
+    "ttn_received_at": "2025-10-14T16:19:12.660224487Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:20:43.398750",
+    "battery_voltage": 3.083,
+    "humidity": 73.7,
+    "motion_counts": 7651,
+    "temperature": 25.24,
+    "received_at": "2025-10-14T16:20:43.398750",
+    "ttn_received_at": "2025-10-14T16:20:42.399516179Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:29:13.234386",
+    "battery_voltage": 3.084,
+    "humidity": 72.6,
+    "motion_counts": 7653,
+    "temperature": 25.21,
+    "received_at": "2025-10-14T16:29:13.234386",
+    "ttn_received_at": "2025-10-14T16:29:12.468272201Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:33:36.821220",
+    "battery_voltage": 3.085,
+    "humidity": 71,
+    "motion_counts": 7654,
+    "temperature": 25.19,
+    "received_at": "2025-10-14T16:33:36.821220",
+    "ttn_received_at": "2025-10-14T16:33:36.010332974Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:36:46.671192",
+    "battery_voltage": 3.083,
+    "humidity": 70.9,
+    "motion_counts": 7656,
+    "temperature": 25.19,
+    "received_at": "2025-10-14T16:36:46.671192",
+    "ttn_received_at": "2025-10-14T16:36:45.780082688Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:39:13.023750",
+    "battery_voltage": 3.083,
+    "humidity": 70.3,
+    "motion_counts": 7659,
+    "temperature": 25.16,
+    "received_at": "2025-10-14T16:39:13.023750",
+    "ttn_received_at": "2025-10-14T16:39:12.291708561Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:39:32.580819",
+    "battery_voltage": 3.085,
+    "humidity": 70.2,
+    "motion_counts": 7660,
+    "temperature": 25.16,
+    "received_at": "2025-10-14T16:39:32.580819",
+    "ttn_received_at": "2025-10-14T16:39:31.863867747Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:43:26.150432",
+    "battery_voltage": 3.083,
+    "humidity": 69.9,
+    "motion_counts": 7662,
+    "temperature": 25.12,
+    "received_at": "2025-10-14T16:43:26.150432",
+    "ttn_received_at": "2025-10-14T16:43:25.193920926Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:46:16.340769",
+    "battery_voltage": 3.083,
+    "humidity": 69.6,
+    "motion_counts": 7664,
+    "temperature": 25.1,
+    "received_at": "2025-10-14T16:46:16.340769",
+    "ttn_received_at": "2025-10-14T16:46:15.244502743Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:48:17.683273",
+    "battery_voltage": 3.083,
+    "humidity": 69.5,
+    "motion_counts": 7669,
+    "temperature": 25.08,
+    "received_at": "2025-10-14T16:48:17.683273",
+    "ttn_received_at": "2025-10-14T16:48:16.873551996Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:49:12.880556",
+    "battery_voltage": 3.085,
+    "humidity": 68.9,
+    "motion_counts": 7670,
+    "temperature": 25.06,
+    "received_at": "2025-10-14T16:49:12.880556",
+    "ttn_received_at": "2025-10-14T16:49:12.122701458Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:51:16.393435",
+    "battery_voltage": 3.086,
+    "humidity": 69.1,
+    "motion_counts": 7671,
+    "temperature": 25.05,
+    "received_at": "2025-10-14T16:51:16.393435",
+    "ttn_received_at": "2025-10-14T16:51:15.492693091Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:54:29.741322",
+    "battery_voltage": 3.082,
+    "humidity": 69.4,
+    "motion_counts": 7675,
+    "temperature": 25.03,
+    "received_at": "2025-10-14T16:54:29.746093",
+    "ttn_received_at": "2025-10-14T16:54:29.053559935Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:57:38.584632",
+    "battery_voltage": 3.085,
+    "humidity": 69.3,
+    "motion_counts": 7681,
+    "temperature": 25.02,
+    "received_at": "2025-10-14T16:57:38.584632",
+    "ttn_received_at": "2025-10-14T16:57:37.906561234Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T16:59:12.802300",
+    "battery_voltage": 3.084,
+    "humidity": 69.4,
+    "motion_counts": 7686,
+    "temperature": 25.02,
+    "received_at": "2025-10-14T16:59:12.802300",
+    "ttn_received_at": "2025-10-14T16:59:11.950258214Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T17:02:28.634213",
+    "battery_voltage": 3.084,
+    "humidity": 69.4,
+    "motion_counts": 7690,
+    "temperature": 25.02,
+    "received_at": "2025-10-14T17:02:28.634213",
+    "ttn_received_at": "2025-10-14T17:02:27.819315052Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T17:09:12.497434",
+    "battery_voltage": 3.083,
+    "humidity": 69,
+    "motion_counts": 7691,
+    "temperature": 25.03,
+    "received_at": "2025-10-14T17:09:12.497434",
+    "ttn_received_at": "2025-10-14T17:09:11.731906391Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T17:11:07.806309",
+    "battery_voltage": 3.083,
+    "humidity": 69.3,
+    "motion_counts": 7692,
+    "temperature": 25,
+    "received_at": "2025-10-14T17:11:07.806309",
+    "ttn_received_at": "2025-10-14T17:11:06.926179220Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T17:14:08.442691",
+    "battery_voltage": 3.083,
+    "humidity": 69.9,
+    "motion_counts": 7695,
+    "temperature": 25,
+    "received_at": "2025-10-14T17:14:08.442691",
+    "ttn_received_at": "2025-10-14T17:14:07.595415161Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T17:19:12.428636",
+    "battery_voltage": 3.084,
+    "humidity": 69.4,
+    "motion_counts": 7696,
+    "temperature": 25,
+    "received_at": "2025-10-14T17:19:12.428636",
+    "ttn_received_at": "2025-10-14T17:19:11.564623640Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T17:29:12.119639",
+    "battery_voltage": 3.084,
+    "humidity": 69.5,
+    "motion_counts": 7696,
+    "temperature": 24.99,
+    "received_at": "2025-10-14T17:29:12.119639",
+    "ttn_received_at": "2025-10-14T17:29:11.392564568Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T17:39:11.997545",
+    "battery_voltage": 3.084,
+    "humidity": 69.9,
+    "motion_counts": 7696,
+    "temperature": 25.03,
+    "received_at": "2025-10-14T17:39:11.997545",
+    "ttn_received_at": "2025-10-14T17:39:11.202830344Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T17:49:12.155488",
+    "battery_voltage": 3.084,
+    "humidity": 70,
+    "motion_counts": 7696,
+    "temperature": 25.03,
+    "received_at": "2025-10-14T17:49:12.155488",
+    "ttn_received_at": "2025-10-14T17:49:11.054045526Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-14T17:50:22.352190",
+    "battery_voltage": 3.083,
+    "humidity": 69.8,
+    "motion_counts": 7697,
+    "temperature": 25.02,
+    "received_at": "2025-10-14T17:50:22.352190",
+    "ttn_received_at": "2025-10-14T17:50:21.682410737Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T07:39:30.401975",
+    "battery_voltage": 3.084,
+    "humidity": 73.1,
+    "motion_counts": 7823,
+    "temperature": 23.79,
+    "received_at": "2025-10-15T07:39:30.401975",
+    "ttn_received_at": "2025-10-15T07:38:56.588908644Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T07:49:00.320838",
+    "battery_voltage": 3.083,
+    "humidity": 73,
+    "motion_counts": 7823,
+    "temperature": 23.82,
+    "received_at": "2025-10-15T07:49:00.320838",
+    "ttn_received_at": "2025-10-15T07:48:56.418101140Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T07:58:57.383667",
+    "battery_voltage": 3.082,
+    "humidity": 72.9,
+    "motion_counts": 7823,
+    "temperature": 23.87,
+    "received_at": "2025-10-15T07:58:57.383667",
+    "ttn_received_at": "2025-10-15T07:58:56.246091762Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T08:09:12.102263",
+    "battery_voltage": 3.085,
+    "humidity": 72.8,
+    "motion_counts": 7823,
+    "temperature": 23.89,
+    "received_at": "2025-10-15T08:09:12.102263",
+    "ttn_received_at": "2025-10-15T08:08:56.065837235Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T08:18:59.847205",
+    "battery_voltage": 3.083,
+    "humidity": 72.9,
+    "motion_counts": 7823,
+    "temperature": 23.93,
+    "received_at": "2025-10-15T08:18:59.847205",
+    "ttn_received_at": "2025-10-15T08:18:55.880903225Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T08:28:57.830382",
+    "battery_voltage": 3.082,
+    "humidity": 73.1,
+    "motion_counts": 7823,
+    "temperature": 24.02,
+    "received_at": "2025-10-15T08:28:57.830382",
+    "ttn_received_at": "2025-10-15T08:28:55.700518942Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T08:39:00.522499",
+    "battery_voltage": 3.083,
+    "humidity": 73.2,
+    "motion_counts": 7823,
+    "temperature": 24.04,
+    "received_at": "2025-10-15T08:39:00.522499",
+    "ttn_received_at": "2025-10-15T08:38:55.521147047Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T08:49:00.681258",
+    "battery_voltage": 3.083,
+    "humidity": 73.4,
+    "motion_counts": 7823,
+    "temperature": 24.09,
+    "received_at": "2025-10-15T08:49:00.681258",
+    "ttn_received_at": "2025-10-15T08:48:55.343296610Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T08:58:56.497137",
+    "battery_voltage": 3.084,
+    "humidity": 73.1,
+    "motion_counts": 7823,
+    "temperature": 24.13,
+    "received_at": "2025-10-15T08:58:56.497137",
+    "ttn_received_at": "2025-10-15T08:58:55.169887027Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T09:08:56.862457",
+    "battery_voltage": 3.084,
+    "humidity": 73.3,
+    "motion_counts": 7823,
+    "temperature": 24.19,
+    "received_at": "2025-10-15T09:08:56.862457",
+    "ttn_received_at": "2025-10-15T09:08:54.984175279Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T09:18:55.404318",
+    "battery_voltage": 3.083,
+    "humidity": 73.1,
+    "motion_counts": 7823,
+    "temperature": 24.23,
+    "received_at": "2025-10-15T09:18:55.404318",
+    "ttn_received_at": "2025-10-15T09:18:54.819635625Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T09:28:56.812690",
+    "battery_voltage": 3.083,
+    "humidity": 72.8,
+    "motion_counts": 7823,
+    "temperature": 24.28,
+    "received_at": "2025-10-15T09:28:56.812690",
+    "ttn_received_at": "2025-10-15T09:28:54.830903034Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T09:38:54.987835",
+    "battery_voltage": 3.083,
+    "humidity": 73.1,
+    "motion_counts": 7823,
+    "temperature": 24.32,
+    "received_at": "2025-10-15T09:38:54.987835",
+    "ttn_received_at": "2025-10-15T09:38:54.481601416Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T09:48:55.563744",
+    "battery_voltage": 3.083,
+    "humidity": 72.7,
+    "motion_counts": 7823,
+    "temperature": 24.37,
+    "received_at": "2025-10-15T09:48:55.563744",
+    "ttn_received_at": "2025-10-15T09:48:54.291950654Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T09:58:54.668756",
+    "battery_voltage": 3.083,
+    "humidity": 72.5,
+    "motion_counts": 7823,
+    "temperature": 24.38,
+    "received_at": "2025-10-15T09:58:54.668756",
+    "ttn_received_at": "2025-10-15T09:58:54.116371115Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T10:08:54.258705",
+    "battery_voltage": 3.084,
+    "humidity": 72.4,
+    "motion_counts": 7823,
+    "temperature": 24.45,
+    "received_at": "2025-10-15T10:08:54.258705",
+    "ttn_received_at": "2025-10-15T10:08:53.959432962Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T10:18:54.069715",
+    "battery_voltage": 3.084,
+    "humidity": 72.3,
+    "motion_counts": 7823,
+    "temperature": 24.5,
+    "received_at": "2025-10-15T10:18:54.069715",
+    "ttn_received_at": "2025-10-15T10:18:53.772071029Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T10:28:54.754304",
+    "battery_voltage": 3.082,
+    "humidity": 71.9,
+    "motion_counts": 7823,
+    "temperature": 24.53,
+    "received_at": "2025-10-15T10:28:54.754304",
+    "ttn_received_at": "2025-10-15T10:28:53.637790469Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T10:38:54.612087",
+    "battery_voltage": 3.082,
+    "humidity": 72.5,
+    "motion_counts": 7823,
+    "temperature": 24.59,
+    "received_at": "2025-10-15T10:38:54.612087",
+    "ttn_received_at": "2025-10-15T10:38:53.476338278Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T11:28:55.273095",
+    "battery_voltage": 3.085,
+    "humidity": 71.9,
+    "motion_counts": 7823,
+    "temperature": 24.85,
+    "received_at": "2025-10-15T11:28:55.273095",
+    "ttn_received_at": "2025-10-15T11:28:52.555614408Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T11:38:54.993960",
+    "battery_voltage": 3.084,
+    "humidity": 72.3,
+    "motion_counts": 7823,
+    "temperature": 24.9,
+    "received_at": "2025-10-15T11:38:54.993960",
+    "ttn_received_at": "2025-10-15T11:38:52.363616029Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T12:08:52.807512",
+    "battery_voltage": 3.083,
+    "humidity": 72.3,
+    "motion_counts": 7823,
+    "temperature": 25.13,
+    "received_at": "2025-10-15T12:08:52.807512",
+    "ttn_received_at": "2025-10-15T12:08:51.860267301Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T12:18:52.722229",
+    "battery_voltage": 3.082,
+    "humidity": 71.7,
+    "motion_counts": 7823,
+    "temperature": 25.21,
+    "received_at": "2025-10-15T12:18:52.722229",
+    "ttn_received_at": "2025-10-15T12:18:51.690443281Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T12:48:52.841671",
+    "battery_voltage": 3.083,
+    "humidity": 71.1,
+    "motion_counts": 7823,
+    "temperature": 25.37,
+    "received_at": "2025-10-15T12:48:52.841671",
+    "ttn_received_at": "2025-10-15T12:48:51.207890829Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T14:28:24.033904",
+    "battery_voltage": 3.084,
+    "humidity": 68.8,
+    "motion_counts": 7856,
+    "temperature": 25.4,
+    "received_at": "2025-10-15T14:28:24.033904",
+    "ttn_received_at": "2025-10-15T14:28:23.073166531Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T14:28:50.311687",
+    "battery_voltage": 3.083,
+    "humidity": 68.7,
+    "motion_counts": 7857,
+    "temperature": 25.38,
+    "received_at": "2025-10-15T14:28:50.311687",
+    "ttn_received_at": "2025-10-15T14:28:49.410958593Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T14:31:22.521059",
+    "battery_voltage": 3.083,
+    "humidity": 68.8,
+    "motion_counts": 7858,
+    "temperature": 25.38,
+    "received_at": "2025-10-15T14:31:22.521059",
+    "ttn_received_at": "2025-10-15T14:31:17.786292743Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T14:33:45.070876",
+    "battery_voltage": 3.082,
+    "humidity": 68.5,
+    "motion_counts": 7859,
+    "temperature": 25.34,
+    "received_at": "2025-10-15T14:33:45.070876",
+    "ttn_received_at": "2025-10-15T14:33:44.119520701Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T14:37:48.688010",
+    "battery_voltage": 3.082,
+    "humidity": 68.7,
+    "motion_counts": 7860,
+    "temperature": 25.31,
+    "received_at": "2025-10-15T14:37:48.688010",
+    "ttn_received_at": "2025-10-15T14:37:47.029728400Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T14:38:50.897160",
+    "battery_voltage": 3.084,
+    "humidity": 69,
+    "motion_counts": 7861,
+    "temperature": 25.3,
+    "received_at": "2025-10-15T14:38:50.897160",
+    "ttn_received_at": "2025-10-15T14:38:49.235443814Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T14:48:52.071607",
+    "battery_voltage": 3.085,
+    "humidity": 69,
+    "motion_counts": 7861,
+    "temperature": 25.26,
+    "received_at": "2025-10-15T14:48:52.071607",
+    "ttn_received_at": "2025-10-15T14:48:49.069054296Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T14:48:57.753086",
+    "battery_voltage": 3.082,
+    "humidity": 68.9,
+    "motion_counts": 7862,
+    "temperature": 25.23,
+    "received_at": "2025-10-15T14:48:57.753086",
+    "ttn_received_at": "2025-10-15T14:48:56.193034690Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T14:53:23.814681",
+    "battery_voltage": 3.083,
+    "humidity": 68.6,
+    "motion_counts": 7863,
+    "temperature": 25.24,
+    "received_at": "2025-10-15T14:53:23.814681",
+    "ttn_received_at": "2025-10-15T14:53:22.750380467Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T14:55:40.188419",
+    "battery_voltage": 3.083,
+    "humidity": 67.9,
+    "motion_counts": 7868,
+    "temperature": 25.23,
+    "received_at": "2025-10-15T14:55:40.188419",
+    "ttn_received_at": "2025-10-15T14:55:39.269550469Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T14:57:47.543829",
+    "battery_voltage": 3.083,
+    "humidity": 67.9,
+    "motion_counts": 7870,
+    "temperature": 25.24,
+    "received_at": "2025-10-15T14:57:47.543829",
+    "ttn_received_at": "2025-10-15T14:57:45.433937924Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T14:58:50.962152",
+    "battery_voltage": 3.085,
+    "humidity": 68,
+    "motion_counts": 7871,
+    "temperature": 25.23,
+    "received_at": "2025-10-15T14:58:50.962152",
+    "ttn_received_at": "2025-10-15T14:58:48.888751434Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T15:00:25.924411",
+    "battery_voltage": 3.083,
+    "humidity": 68.2,
+    "motion_counts": 7872,
+    "temperature": 25.23,
+    "received_at": "2025-10-15T15:00:25.924411",
+    "ttn_received_at": "2025-10-15T15:00:25.000439500Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T15:03:49.309133",
+    "battery_voltage": 3.084,
+    "humidity": 67.5,
+    "motion_counts": 7874,
+    "temperature": 25.23,
+    "received_at": "2025-10-15T15:03:49.309133",
+    "ttn_received_at": "2025-10-15T15:03:48.414382232Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T15:10:16.547241",
+    "battery_voltage": 3.084,
+    "humidity": 66.6,
+    "motion_counts": 7880,
+    "temperature": 25.23,
+    "received_at": "2025-10-15T15:10:16.547241",
+    "ttn_received_at": "2025-10-15T15:10:16.527382898Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T15:14:55.323711",
+    "battery_voltage": 3.083,
+    "humidity": 65.8,
+    "motion_counts": 7886,
+    "temperature": 25.21,
+    "received_at": "2025-10-15T15:14:55.323711",
+    "ttn_received_at": "2025-10-15T15:14:54.998424255Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T15:17:33.627449",
+    "battery_voltage": 3.085,
+    "humidity": 63.6,
+    "motion_counts": 7889,
+    "temperature": 25.2,
+    "received_at": "2025-10-15T15:17:33.627449",
+    "ttn_received_at": "2025-10-15T15:17:33.576290975Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T15:18:48.592538",
+    "battery_voltage": 3.082,
+    "humidity": 64.7,
+    "motion_counts": 7890,
+    "temperature": 25.23,
+    "received_at": "2025-10-15T15:18:48.592538",
+    "ttn_received_at": "2025-10-15T15:18:48.547287242Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T15:36:58.646076",
+    "battery_voltage": 3.083,
+    "humidity": 68,
+    "motion_counts": 7898,
+    "temperature": 25.36,
+    "received_at": "2025-10-15T15:36:58.646076",
+    "ttn_received_at": "2025-10-15T15:36:57.897721201Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T15:38:48.934708",
+    "battery_voltage": 3.084,
+    "humidity": 66.3,
+    "motion_counts": 7907,
+    "temperature": 25.33,
+    "received_at": "2025-10-15T15:38:48.934708",
+    "ttn_received_at": "2025-10-15T15:38:48.194656969Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T15:45:17.077106",
+    "battery_voltage": 3.082,
+    "humidity": 68.3,
+    "motion_counts": 7908,
+    "temperature": 25.26,
+    "received_at": "2025-10-15T15:45:17.077106",
+    "ttn_received_at": "2025-10-15T15:45:16.314177650Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T15:48:48.748061",
+    "battery_voltage": 3.084,
+    "humidity": 67.2,
+    "motion_counts": 7909,
+    "temperature": 25.23,
+    "received_at": "2025-10-15T15:48:48.748061",
+    "ttn_received_at": "2025-10-15T15:48:48.032336390Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T15:50:19.353052",
+    "battery_voltage": 3.084,
+    "humidity": 67.5,
+    "motion_counts": 7910,
+    "temperature": 25.26,
+    "received_at": "2025-10-15T15:50:19.353052",
+    "ttn_received_at": "2025-10-15T15:50:18.638823981Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T15:58:48.724546",
+    "battery_voltage": 3.083,
+    "humidity": 63.6,
+    "motion_counts": 7912,
+    "temperature": 25.21,
+    "received_at": "2025-10-15T15:58:48.724546",
+    "ttn_received_at": "2025-10-15T15:58:47.874976198Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T16:00:39.620435",
+    "battery_voltage": 3.082,
+    "humidity": 64.3,
+    "motion_counts": 7913,
+    "temperature": 25.16,
+    "received_at": "2025-10-15T16:00:39.620435",
+    "ttn_received_at": "2025-10-15T16:00:38.877350706Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T18:12:00.507072",
+    "battery_voltage": 3.083,
+    "humidity": 68.9,
+    "motion_counts": 7961,
+    "temperature": 25.14,
+    "received_at": "2025-10-15T18:12:00.507072",
+    "ttn_received_at": "2025-10-15T18:12:00.082218359Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T18:18:45.754834",
+    "battery_voltage": 3.083,
+    "humidity": 69.3,
+    "motion_counts": 7967,
+    "temperature": 25.16,
+    "received_at": "2025-10-15T18:18:45.754834",
+    "ttn_received_at": "2025-10-15T18:18:45.447316222Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T18:28:45.553764",
+    "battery_voltage": 3.084,
+    "humidity": 69.6,
+    "motion_counts": 7967,
+    "temperature": 25.13,
+    "received_at": "2025-10-15T18:28:45.553764",
+    "ttn_received_at": "2025-10-15T18:28:45.258024072Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T18:38:45.376680",
+    "battery_voltage": 3.082,
+    "humidity": 69.8,
+    "motion_counts": 7967,
+    "temperature": 25.12,
+    "received_at": "2025-10-15T18:38:45.376680",
+    "ttn_received_at": "2025-10-15T18:38:45.096392520Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T18:48:45.202175",
+    "battery_voltage": 3.083,
+    "humidity": 69.8,
+    "motion_counts": 7967,
+    "temperature": 25.12,
+    "received_at": "2025-10-15T18:48:45.202175",
+    "ttn_received_at": "2025-10-15T18:48:44.920104355Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T18:58:45.034859",
+    "battery_voltage": 3.083,
+    "humidity": 69.9,
+    "motion_counts": 7967,
+    "temperature": 25.1,
+    "received_at": "2025-10-15T18:58:45.034859",
+    "ttn_received_at": "2025-10-15T18:58:44.745548402Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T19:08:44.781257",
+    "battery_voltage": 3.082,
+    "humidity": 69.9,
+    "motion_counts": 7967,
+    "temperature": 25.12,
+    "received_at": "2025-10-15T19:08:44.781257",
+    "ttn_received_at": "2025-10-15T19:08:44.578724455Z"
+  },
+  {
+    "device_id": "lht65n-01-temp-humidity-sensor",
+    "timestamp": "2025-10-15T19:18:44.617576",
+    "battery_voltage": 3.082,
+    "humidity": 69.9,
+    "motion_counts": 7967,
+    "temperature": 25.09,
+    "received_at": "2025-10-15T19:18:44.617576",
+    "ttn_received_at": "2025-10-15T19:18:44.405074587Z"
+  }
+]

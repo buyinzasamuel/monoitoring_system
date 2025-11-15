@@ -1,0 +1,85 @@
+{
+    "end_device_ids": {
+        "device_id": "lht65n-01-temp-humidity-sensor",
+        "application_ids": {
+            "application_id": "bd-test-app2"
+        },
+        "dev_eui": "A84041C68189F496",
+        "join_eui": "A840410000000100",
+        "dev_addr": "260BD670"
+    },
+    "correlation_ids": [
+        "gs:uplink:01K7MMYYXMY03MKVANZSR7DKPQ"
+    ],
+    "received_at": "2025-10-15T19:18:44.611386907Z",
+    "uplink_message": {
+        "session_key_id": "AZmoT8OzeIcFPG5iE7vWbA==",
+        "f_port": 2,
+        "f_cnt": 2744,
+        "frm_payload": "zAoJzQK7DgAAHx8=",
+        "decoded_payload": {
+            "Exti_pin_level": "No activity",
+            "Work_mode": "PIR Sensor",
+            "field1": 3.082,
+            "field2": 3,
+            "field3": 69.9,
+            "field4": 7967,
+            "field5": 25.09
+        },
+        "rx_metadata": [
+            {
+                "gateway_ids": {
+                    "gateway_id": "bdata-lg308n-gw1",
+                    "eui": "A84041FFFF286E34"
+                },
+                "time": "2025-10-15T19:18:44.258553Z",
+                "timestamp": 1816182182,
+                "rssi": -88,
+                "channel_rssi": -88,
+                "snr": 10.5,
+                "frequency_offset": "-460",
+                "location": {
+                    "latitude": 0.3069107306940695,
+                    "longitude": 32.553485794742954,
+                    "source": "SOURCE_REGISTRY"
+                },
+                "uplink_token": "Ch4KHAoQYmRhdGEtbGczMDhuLWd3MRIIqEBB//8objQQpvuC4gYaDAiU57/HBhCH4sPAASDwoJPn7agE",
+                "channel_index": 4,
+                "received_at": "2025-10-15T19:18:44.403763463Z"
+            }
+        ],
+        "settings": {
+            "data_rate": {
+                "lora": {
+                    "bandwidth": 125000,
+                    "spreading_factor": 7,
+                    "coding_rate": "4/5"
+                }
+            },
+            "frequency": "867300000",
+            "timestamp": 1816182182,
+            "time": "2025-10-15T19:18:44.258553Z"
+        },
+        "received_at": "2025-10-15T19:18:44.405074587Z",
+        "consumed_airtime": "0.061696s",
+        "version_ids": {
+            "brand_id": "dragino",
+            "model_id": "lht65",
+            "hardware_version": "_unknown_hw_version_",
+            "firmware_version": "1.9.1",
+            "band_id": "EU_863_870"
+        },
+        "network_ids": {
+            "net_id": "000013",
+            "ns_id": "EC656E0000000181",
+            "tenant_id": "ttn",
+            "cluster_id": "eu1",
+            "cluster_address": "eu1.cloud.thethings.network"
+        },
+        "last_battery_percentage": {
+            "f_cnt": 2573,
+            "value": 100,
+            "received_at": "2025-10-15T01:59:02.501831783Z"
+        }
+    }
+}
